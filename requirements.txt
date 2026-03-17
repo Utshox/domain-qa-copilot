@@ -8,6 +8,7 @@ sqlalchemy
 psycopg2-binary
 qdrant-client
 langchain
+langchain-text-splitters
 langchain-openai
 langchain-community
 openai
