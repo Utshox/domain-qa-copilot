@@ -1,3 +1,3 @@
 # Contributors
 
-- [utshox](https://github.com/utshox)
+<!-- Contributors will be listed here -->
