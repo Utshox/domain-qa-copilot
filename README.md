@@ -54,3 +54,6 @@ Start Arize Phoenix for local tracing:
 python -m phoenix.server.main serve
 ```
 Then visit `http://localhost:6006`.
+
+## Contributors
+- [Utshox](https://github.com/Utshox)
