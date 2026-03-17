@@ -51,4 +51,4 @@ jobs:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         SECRET_KEY: test-secret-key
       run: |
-        pytest
+        PYTHONPATH=. pytest
